@@ -76,3 +76,5 @@ An image-to-ASCII art converter built in Rust, offering customizable character s
 7.  Display the full help information:
 
     ``AsciiArtist.exe --help``
+
+## If you encounter any problems, please contact 2047015283@qq.com
